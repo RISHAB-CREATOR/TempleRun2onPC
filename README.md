@@ -13,7 +13,7 @@ Welcome to Temple Run 2 PC Version, where you can enjoy the thrilling experience
 
 ## How to Play 🎮
 
-1. Visit [https://rishab-creator.github.io/TempleRun2onPC/](https://templerun2onpc.vercel.app/) in your web browser.
+1. Visit [https://templerun2onpc.vercel.app/](https://templerun2onpc.vercel.app/) in your web browser.
 2. Click on the "Play Now" button to start the game.
 3. Use the arrow keys on your keyboard to control the character.
 4. Dodge obstacles, collect coins, and run as far as you can to beat your high score!
